@@ -1,5 +1,3 @@
-import { describe, it } from '@jest/globals';
-
 const assert = require('assert');
 const calculateNumber = require('./1-calcul');
 

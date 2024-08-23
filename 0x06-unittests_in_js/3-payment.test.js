@@ -1,5 +1,3 @@
-import { describe, it } from '@jest/globals';
-
 const sinon = require('sinon');
 const { expect } = require('chai');
 const Utils = require('./utils');

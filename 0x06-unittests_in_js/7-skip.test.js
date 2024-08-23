@@ -1,5 +1,3 @@
-import { describe, it } from '@jest/globals';
-
 const { expect } = require('chai');
 
 describe('testing numbers', () => {

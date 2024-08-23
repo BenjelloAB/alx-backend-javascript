@@ -27,8 +27,5 @@
     "nodemon": "^3.1.4",
     "request": "^2.88.2",
     "sinon": "^18.0.0"
-  },
-  "dependencies": {
-    "@jest/globals": "^29.7.0"
   }
 }

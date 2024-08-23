@@ -1,7 +1,3 @@
-import {
-  afterEach, beforeEach, describe, it,
-} from '@jest/globals';
-
 const sinon = require('sinon');
 const { expect } = require('chai');
 const sendPaymentRequestToApi = require('./5-payment');
